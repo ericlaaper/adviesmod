@@ -1,4 +1,8 @@
+
 {
+  "name": "advisemod",
+  "version": "1.0.0",
+  "description": "Backoffice for ionic webapps",
     "private": true,
     "scripts": {
         "dev": "npm run development",
